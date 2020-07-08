@@ -13,11 +13,11 @@
      50%{background-color:pink;}
 }
 h1{
-  border:3px solid black;
-  border-radius:3px;
+  border-bottom:3px solid black;
+
   text-align:center;
   padding:8px;
-  width:100%;
+  width:
 }
 img{
   width:320px;
